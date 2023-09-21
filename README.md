@@ -1,5 +1,5 @@
-# Chronic-desiease-prediction-from-symptoms
-Chronic desiease prediction from symptoms
+# Chronic-disease-prediction-from-symptoms
+Chronic disease prediction from symptoms
 #Project_Statement:Machine Learning algorithms for predicting the risks of chronic diseases-Varcons technologies Pvt Ltd
 
 #Given accuracy rate: 68/100, 
