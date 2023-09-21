@@ -79,3 +79,4 @@ NOTE: This project is for demo purposes only. For any symptoms/disease, please r
 #This is a Git journal for the Company Varcons Technologies internship Project.
 
 Author: SHAIMA AFREEN
+CO Author: Santosh Kumar Paital.
